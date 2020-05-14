@@ -175,6 +175,7 @@ public class Duke extends Application {
         return tasks;
     }
 
+
     /**
      * Saves the data to a text file when application closes
      *
